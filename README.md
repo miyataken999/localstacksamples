@@ -5,6 +5,7 @@ This repository contains sample projects that can be deployed on your local mach
 Each example in the repository is prefixed with the name of the AWS service being used. For example, the `elb-load-balancing` directory contains examples that demonstrate how to use the Elastic Load Balancing service with LocalStack. Please refer to the sub directories for more details and instructions on how to start the samples.
 
 ## Prerequisites
+- https://chat.openai.com/share/9c358f23-fec4-4f6e-b217-f92d74309072
 
 * [Docker](https://docs.docker.com/get-docker/)
 * [`awslocal` CLI](https://docs.localstack.cloud/user-guide/integrations/aws-cli/)
